@@ -1,6 +1,6 @@
 Github | LinkedIn | Resume | Articles | Facebook
 :-: | :-: | :-: | :-: | :-:
-[![github](.images/github.png)](https://github.com/DerekRoberts) | [![linkedin](.images/linkedin.png)](https://www.linkedin.com/in/derekroberts) | [![resume](.images/file.png)](https://docs.google.com/document/d/1n7aJWhlX8gQZX0L8HEi4P_iazfXE7WUVNmDLM-8vIN8) | [![medium](.images/medium.png)](https://derek-roberts.medium.com) | [![facebook](.images/facebook.png)](https://www.facebook.com/DerekTARoberts)
+[![github](.images/github.png)](https://github.com/DerekRoberts) | [![linkedin](.images/linkedin.png)](https://www.linkedin.com/in/derekroberts) | [![resume](.images/file.png)](https://docs.google.com/document/d/1DqglLbmhW8PJ50y0wLo4Ez5JkBE-pJBg5cgwxob5SHc/edit?usp=sharing) | [![medium](.images/medium.png)](https://derek-roberts.medium.com) | [![facebook](.images/facebook.png)](https://www.facebook.com/DerekTARoberts)
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=DerekRoberts&show_icons=true&theme=transparent&hide_border=true&hide=stars) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DerekRoberts&theme=tokyonight_duo&hide_border=true&border_radius=0)](https://git.io/streak-stats) |
 | --- | --- |
