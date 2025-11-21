@@ -5,5 +5,5 @@ Github | LinkedIn | Resume | Articles | Facebook
 | ![Stats](https://github-readme-stats.vercel.app/api?username=DerekRoberts&show_icons=true&theme=transparent&hide_border=true&hide=stars) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DerekRoberts&theme=tokyonight_duo&hide_border=true&border_radius=0)](https://git.io/streak-stats) |
 | --- | --- |
 
-| [![Trophies](https://github-profile-trophy.vercel.app/?username=DerekRoberts&column=-1&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true)](https://github.com/DerekRoberts) |
-| --- |
+<!-- | [![Trophies](https://github-profile-trophy.vercel.app/?username=DerekRoberts&column=-1&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true)](https://github.com/DerekRoberts) |
+| --- | -->
